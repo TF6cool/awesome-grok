@@ -55,6 +55,7 @@ Curated resources for [Grok](https://x.ai/grok), [Grok Bot](https://x.ai/news/gr
 - [Forge Design](https://github.com/forge-ui/forge-design-extension) — Chrome extension for selecting live DOM components and modifying UI locally with Grok.
 - [HyperGrok Trading Desk](https://github.com/galleonlabs/hypergrok-trading-desk) — Hyperliquid trading agent toolkit powered by Grok skills and subagents.
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) — Browser grid that runs several agent sessions side by side, Grok among them. Each cell is a real PTY with a colour-coded status and its own git worktree; tmux-backed, so closing the tab does not close the work.
+- [Grok Text to Speech](https://groktexttospeech.com/) — Free web front-end for the Grok TTS API: try all 28 built-in voices with your own text, 20 languages with auto-detect, speech tags for pauses, laughs and whispers, MP3 download, no sign-up.
 
 ## CLI
 
